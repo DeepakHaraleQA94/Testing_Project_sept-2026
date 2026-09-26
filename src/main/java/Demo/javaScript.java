@@ -17,7 +17,7 @@ public class javaScript {
 		
 		js.executeScript("document.getElementById('draggable').scrollIntoView()");
 		
-		
+		System.out.println("hello");
 		
 //		js.executeScript("document.getElementById('UserName').value='training@jalaacademy.com'");
 //		js.executeScript("document.getElementById('Password').value='jobprogram'");
